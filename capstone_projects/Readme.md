@@ -36,14 +36,14 @@ Data files can be accessed [here](https://github.com/vamsitekumalla/Springboard_
 
 Below links to browse through the data analysis and modeling files:
 
-[Introduction](https://github.com/vamsitekumalla/Springboard_datascience/blob/master/capstone_projects/Analysis%20and%20Modeling/Introduction.ipynb)
-[Data Wrangling and EDA](https://github.com/vamsitekumalla/Springboard_datascience/blob/master/capstone_projects/Analysis%20and%20Modeling/Data_Wrangling_and_EDA.ipynb)
-[Inferential Statistics](https://github.com/vamsitekumalla/Springboard_datascience/blob/master/capstone_projects/Analysis%20and%20Modeling/Inferential_Statistics.ipynb)
-[Machine Learning](https://github.com/vamsitekumalla/Springboard_datascience/blob/master/capstone_projects/Analysis%20and%20Modeling/Machine_Learning_part_1.ipynb)
-[Part 1](https://github.com/vamsitekumalla/Springboard_datascience/blob/master/capstone_projects/Analysis%20and%20Modeling/Machine_Learning_part_1.ipynb)
-[Part 2](https://github.com/vamsitekumalla/Springboard_datascience/blob/master/capstone_projects/Analysis%20and%20Modeling/Machine_Learning_part_2.ipynb)
-[Part 3](https://github.com/vamsitekumalla/Springboard_datascience/blob/master/capstone_projects/Analysis%20and%20Modeling/Machine_Learning_part_3.ipynb)
-[Part 4](https://github.com/vamsitekumalla/Springboard_datascience/blob/master/capstone_projects/Analysis%20and%20Modeling/Machine_Learning_part_4.ipynb)
-[Conclusion](https://github.com/vamsitekumalla/Springboard_datascience/blob/master/capstone_projects/Analysis%20and%20Modeling/Machine_Learning_part_4.ipynb)
+[Introduction](https://github.com/vamsitekumalla/Springboard_datascience/blob/master/capstone_projects/Analysis%20and%20Modeling/Introduction.ipynb)<br/>
+[Data Wrangling and EDA](https://github.com/vamsitekumalla/Springboard_datascience/blob/master/capstone_projects/Analysis%20and%20Modeling/Data_Wrangling_and_EDA.ipynb)<br/>
+[Inferential Statistics](https://github.com/vamsitekumalla/Springboard_datascience/blob/master/capstone_projects/Analysis%20and%20Modeling/Inferential_Statistics.ipynb)<br/>
+[Machine Learning](https://github.com/vamsitekumalla/Springboard_datascience/blob/master/capstone_projects/Analysis%20and%20Modeling/Machine_Learning_part_1.ipynb)<br/>
+[Part 1](https://github.com/vamsitekumalla/Springboard_datascience/blob/master/capstone_projects/Analysis%20and%20Modeling/Machine_Learning_part_1.ipynb)<br/>
+[Part 2](https://github.com/vamsitekumalla/Springboard_datascience/blob/master/capstone_projects/Analysis%20and%20Modeling/Machine_Learning_part_2.ipynb)<br/>
+[Part 3](https://github.com/vamsitekumalla/Springboard_datascience/blob/master/capstone_projects/Analysis%20and%20Modeling/Machine_Learning_part_3.ipynb)<br/>
+[Part 4](https://github.com/vamsitekumalla/Springboard_datascience/blob/master/capstone_projects/Analysis%20and%20Modeling/Machine_Learning_part_4.ipynb)<br/>
+[Conclusion](https://github.com/vamsitekumalla/Springboard_datascience/blob/master/capstone_projects/Analysis%20and%20Modeling/Machine_Learning_part_4.ipynb)<br/>
 
 
